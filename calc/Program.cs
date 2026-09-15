@@ -26,7 +26,7 @@ switch (operation)
         break;
 
     default:
-        Console.WriteLine("Вы ввели неправильный знак, повторите попытку");
+        Console.WriteLine("Мимо");
         break;
 
 }
