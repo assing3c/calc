@@ -17,12 +17,12 @@ switch (operation)
         Console.WriteLine(num1 - num2);
         break;
 
-    case '*':
-        Console.WriteLine(num1 * num2);
-        break;
-
     case '/':
         Console.WriteLine(num1 / num2);
+        break;
+
+    case '*':
+        Console.WriteLine(num1 * num2);
         break;
 
     default:
